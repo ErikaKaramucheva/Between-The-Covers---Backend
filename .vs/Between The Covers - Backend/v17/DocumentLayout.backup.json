@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\common\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:common\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "Entities\\Rating.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Rating.cs",
+              "RelativeToolTip": "Entities\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:16:54.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Comment.cs",
+              "RelativeToolTip": "Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:14:00.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:59:09.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:08:01.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Book.cs",
+              "RelativeToolTip": "Entities\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:04:33.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Common\\Roles.cs",
+              "RelativeDocumentMoniker": "Common\\Roles.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Common\\Roles.cs",
+              "RelativeToolTip": "Common\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:00:28.372Z"
             }
           ]
         }
