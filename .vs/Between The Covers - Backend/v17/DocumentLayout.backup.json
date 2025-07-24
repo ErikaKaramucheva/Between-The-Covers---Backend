@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\dto\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:dto\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\common\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:common\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\entities\\booksblogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:entities\\booksblogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +55,36 @@
       "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\repositories\\interfaces\\iuserrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:repositories\\interfaces\\iuserrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\repositories\\interfaces\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:repositories\\interfaces\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\repositories\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:repositories\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\common\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:common\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|c:\\users\\user\\desktop\\projects\\between the covers - backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3DAF76-B3B1-462A-9F0B-EDDE5B9264FA}|Between The Covers - Backend.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,88 +94,284 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Rating.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Rating.cs",
-              "RelativeDocumentMoniker": "Entities\\Rating.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Rating.cs",
-              "RelativeToolTip": "Entities\\Rating.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CreateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\DTO\\Category\\CreateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Category\\CreateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\DTO\\Category\\CreateCategoryDTO.cs",
+              "RelativeToolTip": "DTO\\Category\\CreateCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T11:16:54.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Comment.cs",
-              "RelativeDocumentMoniker": "Entities\\Comment.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Comment.cs",
-              "RelativeToolTip": "Entities\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T11:14:00.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Entities\\User.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\User.cs",
-              "RelativeToolTip": "Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T10:59:09.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Category.cs",
-              "RelativeToolTip": "Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T11:08:01.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Book.cs",
-              "RelativeDocumentMoniker": "Entities\\Book.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Book.cs",
-              "RelativeToolTip": "Entities\\Book.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T11:04:33.784Z",
+              "WhenOpened": "2025-07-24T08:48:58.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:33:28.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepositoy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\Interfaces\\IUserRepositoy.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IUserRepositoy.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\Interfaces\\IUserRepositoy.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IUserRepositoy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:33:25.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:33:24.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\Interfaces\\IRatingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRatingRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\Interfaces\\IRatingRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IRatingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:33:23.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\Interfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\Interfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:33:22.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:33:20.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:33:16.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "Entities\\Rating.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Rating.cs",
+              "RelativeToolTip": "Entities\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:33:15.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Comment.cs",
+              "RelativeToolTip": "Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:33:14.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:33:13.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\Book.cs",
+              "RelativeToolTip": "Entities\\Book.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA2wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:33:08.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:33:07.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Roles.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Common\\Roles.cs",
               "RelativeDocumentMoniker": "Common\\Roles.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Common\\Roles.cs",
               "RelativeToolTip": "Common\\Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T11:00:28.372Z"
+              "WhenOpened": "2025-07-24T08:33:04.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BooksBlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\BooksBlogDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\BooksBlogDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Entities\\BooksBlogDbContext.cs",
+              "RelativeToolTip": "Entities\\BooksBlogDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:26:47.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Controllers\\CategoryController.cs*",
+              "RelativeToolTip": "Controllers\\CategoryController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:12:16.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:09:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:07:35.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:07:27.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:59:15.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\Between The Covers - Backend\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:59:13.467Z",
+              "EditorCaption": ""
             }
           ]
         }

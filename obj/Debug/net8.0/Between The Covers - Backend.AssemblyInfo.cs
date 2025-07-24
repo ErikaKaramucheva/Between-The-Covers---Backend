@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Between The Covers - Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b07055fe3163bc84abd9fe24223bb932da1625e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04e5a13e2ba32ced1ff49be072da213fbf14829c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Between The Covers - Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Between The Covers - Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

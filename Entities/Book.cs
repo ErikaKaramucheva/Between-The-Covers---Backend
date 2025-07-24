@@ -7,7 +7,11 @@
         public string Author { get; set; }
         public string Description { get; set; }
         public List<string> Images { get; set; }
-        public ICollection<Category> Categories { get; set; }
+        public virtual ICollection<Category> Categories { get; set; } = new List<Category>();
+        public string LinkToPDF { get; set; }
+        public Guid UserID { get; set; }
+
+
 
     }
 }
